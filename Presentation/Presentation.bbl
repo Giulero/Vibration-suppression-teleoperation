@@ -1,0 +1,15 @@
+\begin{thebibliography}{TA17}
+
+\bibitem[HS06]{hokayem2006bilateral}
+Peter~F Hokayem and Mark~W Spong.
+\newblock Bilateral teleoperation: An historical survey.
+\newblock {\em Automatica}, 42(12):2035--2057, 2006.
+
+\bibitem[TA17]{trakarnchaiyo2017vibration}
+Chanuphon Trakarnchaiyo and AM~Harsha~S Abeykoon.
+\newblock Vibration suppression design for virtual compliance control in
+  bilateral teleoperation.
+\newblock In {\em Control and Robotics Engineering (ICCRE), 2017 2nd
+  International Conference on}, pages 57--62. IEEE, 2017.
+
+\end{thebibliography}
